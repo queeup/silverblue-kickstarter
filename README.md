@@ -13,3 +13,7 @@ Starting an installation via Kickstart:
 - Add `inst.ks=https://your.kickstart.url/path/to/ks.cfg` after `quite`
 
 - In this case `inst.ks=https://raw.githubusercontent.com/queeup/silverblue-kickstarter/main/btrfs-ks.cfg`
+
+  or short version:
+
+  `inst.ks=https://tinyurl.com/btrfs-ks`
